@@ -6,7 +6,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    val FoodList = arrayListOf("Chinese","Japanese","Italian","White Food","Thai")
+    val FoodList = arrayListOf("Chinese","Japanese","Italian","White Food","Thai","Indonesian")
     override fun onCreate(savedInstanceState: Bundle?) {
 
         super.onCreate(savedInstanceState)
